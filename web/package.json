@@ -1,0 +1,23 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "Music Recommendation System",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namaya/Muse.git"
+  },
+  "author": "Nicholas Amaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namaya/Muse/issues"
+  },
+  "homepage": "https://github.com/namaya/Muse#readme",
+  "dependencies": {
+    "@types/d3": "^5.0.1",
+    "d3": "^5.7.0"
+  }
+}
